@@ -524,7 +524,8 @@ p {
     height: 55vh;
     width:60vw ;
     margin: auto;
-    background-color:#4d4c4c;
+    border: 2px solid #4d4c4c;
+    background-color:#64646456;
     border-radius: 15px ;
-
+    box-shadow: 5px 1px 5px 5px #494848;
 }
